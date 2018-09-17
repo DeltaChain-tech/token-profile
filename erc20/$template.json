@@ -1,28 +1,28 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
+  "symbol": "DELTA",
+  "address": "0xde1e0ae6101b46520cf66fdc0b1059c5cc3d106c",
   "overview":{
-        "en": "Token Description.",
+        "en": "Digital Money For Next Age",
         "zh": ""
   },
-  "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
-  "state": "LOCKED | NORMAL",
-  "published_on": "2018-01-01",
+  "email": "team@deltachain.tech",
+  "website": "https://deltachain.tech/",
+  "whitepaper": "https://deltachain.tech/wp-content/uploads/2018/08/DELTACHAIN-WHITEPAPER.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-11",
   "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
+        "ETH":"0.00000066 ETH",
+        "USD":"0.00015 USD",
+        "BTC":"0.00000002 BTC"
   },
   "links": {
     "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
+    "twitter": "https://twitter.com/deltachain",
+    "telegram": "https://t.me/deltachaingroup",
+    "github": "https://github.com/DeltaChain-tech",
+    "facebook": "https://www.facebook.com/deltachain",
     "reddit": "https://www.reddit.com/r/your-awesome-project/",
     "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
+    "medium": "https://medium.com/@deltachain"
   }
 }
